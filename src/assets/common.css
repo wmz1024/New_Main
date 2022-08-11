@@ -17,3 +17,14 @@ a:link {
   color: 	white;
   text-decoration: none;
   }
+  .card1{
+    float: left;
+    margin: 16px;
+    padding: 15px;
+    width: 150px;
+    height: 200px;
+    }
+    .card1 img{
+    height: 130px;
+    width: 130px;
+    }
