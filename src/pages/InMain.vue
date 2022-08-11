@@ -1,7 +1,6 @@
 <template>
 <div>
     <center>
-  <h1>关于我</h1>
   <p> <img src="https://me.w03.cc" alt="myself" width="75px" height="75px"></p></center>
 <h2 id="关于我自己"><center>Hello! This is Wmz1024</center></h2>
 
