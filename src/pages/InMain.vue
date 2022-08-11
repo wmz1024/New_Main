@@ -2,9 +2,9 @@
 <div>
     <center>
   <h1>关于我</h1>
-  <p> <img src="https://me.w03.cc" alt="myself"></p></center>
+  <p> <img src="https://me.w03.cc" alt="myself" width="75px" height="75px"></p></center>
 <h2 id="关于我自己"><center>Hello! This is Wmz1024</center></h2>
-<center>
+
    <div id="cardinfo">
 <div class="mdui-card card1">
         <div class="mdui-card-media">
@@ -31,6 +31,6 @@
         <div class="mdui-card-actions">
           <a href="https://blog.w03.cc"><button class="mdui-btn mdui-ripple" style="text-align: center;">进入</button></a>
         </div>
-      </div></div></center>
+      </div></div>
 </div>
 </template>
