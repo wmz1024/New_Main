@@ -1,7 +1,7 @@
 <template>
 <div>
     <center>
-  <p> <img src="https://me.w03.cc" alt="myself" width="75px" height="75px"></p></center>
+<img src="https://me.w03.cc" alt="myself" id="myself"></center>
 <h2 id="关于我自己"><center>Hello! This is Wmz1024</center></h2>
 
    <div id="cardinfo">

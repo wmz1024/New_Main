@@ -28,3 +28,9 @@ a:link {
     height: 130px;
     width: 130px;
     }
+  #myself{
+    width: 125px;
+    height: 125px;
+    margin: 5px;
+    padding: 5px;
+  }
