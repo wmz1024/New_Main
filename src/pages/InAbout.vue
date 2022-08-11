@@ -1,7 +1,7 @@
 <template>
 <center>
   <h1>关于我</h1>
-  <p> <img src="https://me.w03.cc" alt="myself"></p></center>
+  <p> <img src="https://me.w03.cc" alt="myself" id="myself"></p></center>
 <h2 id="关于我自己"><center>关于我自己</center></h2>
 <p>目前现任</p>
 <p>学生</p>
