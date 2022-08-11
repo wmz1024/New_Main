@@ -22,10 +22,10 @@ const routes = [
 ];
 
 const router = createRouter({
+  mode:'hash',
   history: createWebHistory(),
   routes,
 });
-
 // 路由全局前置守卫
 // router.beforeEach((to, from, next) => {
 //   console.log("路由全局前置守卫", to, from);
