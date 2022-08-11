@@ -1,7 +1,7 @@
 <template>
 <center>
   <h1>关于我</h1>
-  <p> <img src="https://me.w03.cc" alt="myself"></p>
+  <p> <img src="https://me.w03.cc" alt="myself"></p></center>
 <h2 id="关于我自己"><center>关于我自己</center></h2>
 <p>目前现任</p>
 <p>学生</p>
@@ -36,5 +36,4 @@
 <p>正在学python</p>
 <p><span class="mask" title="害">我认为普通人不需要介绍 所以以前都没写</span></p>
 
-</center>
 </template>
