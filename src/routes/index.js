@@ -18,7 +18,7 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     // component: () => import('./views/About.vue')
   },
-  { path: '/get/002', component: () => import('../pages/InGet-002') },
+  { path: '/get/002', component: () => import('../pages/InGet-002.vue') },
   { path: '/:path(.*)', component: NotFound },
 ];
 
