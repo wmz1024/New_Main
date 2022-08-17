@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router';
+import { createRouter, createWebHashHistory } from 'vue-router';
 import Home from '../pages/InMain.vue';
 import About from '../pages/InAbout.vue';
 import NotFound from '../pages/not-found.vue';
@@ -23,7 +23,7 @@ const routes = [
 
 const router = createRouter({
   mode:'hash',
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 });
 // 路由全局前置守卫
